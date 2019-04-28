@@ -11,7 +11,7 @@ def home():
     return "Hello World"
 
 def messageReceived(methods=['GET', 'POST']):
-    print('message was received!!!')
+    pass
 
 # to receive
 @socketio.on('event')
