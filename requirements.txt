@@ -1,3 +1,9 @@
 flask
 flask-socketio
 gunicorn
+firebase-admin
+bs4
+dialogflow
+requests
+python-dotenv
+pusher
